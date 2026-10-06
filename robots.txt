@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flymediatechnology2.github.io/khoya-machine-manufacturers-in-india/sitemap.xml
